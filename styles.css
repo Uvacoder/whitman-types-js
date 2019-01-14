@@ -12,8 +12,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #ECEBEB;
-  background: black;
+  color: #EFEF64;
+  background: #B869FB;
   margin: 0;
 }
 
@@ -36,10 +36,11 @@ span.again {
   position: absolute;
   bottom: 32px;
   left: 16px;
+  /* border-bottom: 3px solid #EFEF64; */
 }
 
 span.again:hover {
-  color: #F0EF8A;
+  color: white;
 }
 
 /*-----------------IPAD--------------*/

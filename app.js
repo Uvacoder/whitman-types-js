@@ -1,7 +1,8 @@
-//get the two dom elements we are going to manipulate
+//get the dom elements we are going to manipulate
 const h1Tag = document.querySelector('h1')
 const againTag = document.querySelector('span.again')
-let isTyping = true
+//initiate a bool to check whether isTyping
+let isTyping  
 
 //create a typewriter object
 const typewriter = {
@@ -12,6 +13,9 @@ const typewriter = {
     '"I celebrate myself, and sing myself."', 
     '"Re-examine all that you have been told... dismiss that which insults your soul."', 
     '"I exist as I am, that is enough."',
+    '"Be curious, not judgmental."',
+    '"And your very flesh shall be a great poem."',
+    '"...the powerful play goes on, and you will contribute a verse."',
     '"Keep your face always toward the sunshine - and shadows will fall behind you."',
     '"To die is different from what any one supposed, and luckier."'
   ],

@@ -1,7 +1,7 @@
 Simple typewriter effect in vanilla js -------------------
 
 Title: Whitman Types
-Skill-Level: Intermediate 
+Skill-Level: Intermediate
 Hosted: https://kendallstrautman.github.io/whitman-types-js/
 
 **ASSETS**

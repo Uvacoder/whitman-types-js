@@ -2,6 +2,7 @@ Simple typewriter effect in vanilla js -------------------
 
 Title: Whitman Types
 Skill-Level: Intermediate 
+Hosted: https://kendallstrautman.github.io/whitman-types-js/
 
 **ASSETS**
 - Font: Archivo Black via Google Fonts
